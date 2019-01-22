@@ -1,13 +1,11 @@
 <h3><b>Hi,I'm Arya Dasgupta!</b></h3>   
 <img src="C:\Users\abcd\Downloads\New folder\Arya.jpg">
 
-I pursued my B.Tech from Kolkata from Future Institute of Engineering and Management. I have always been fascinated by technology and its application. I love coding and working on database. DBMS,Java and C are my stengths and I love to learn and seek knowledge. I have worked on some projects on DBMS and won Most 
+I pursued my B.Tech from Kolkata from Future Institute of Engineering and Management. I have always been fascinated by technology and its application. I love coding and working on database. DBMS,Java and C are my stengths and I love to learn and seek knowledge. I have worked on some projects on DBMS and won Most Innovative Project on a project created using Java.
 
-Innovative Project on a project created using Java.
-
-<h3><b><Contact Info</b></h3><br>
+<h3><b>Contact Info</b></h3><br>
 <b>Phone no:8240200898<b><br>
-<b>Email-Id: <p>aryadsgupta@gmail.com | arya.dasgupta@cognizant.com  
+  <b>Email-Id: <p>aryadsgupta@gmail.com | arya.dasgupta@cognizant.com</p>  
 
 <h3><b>Educational Qualification</b></h3>
 <table>
