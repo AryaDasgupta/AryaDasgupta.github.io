@@ -1,5 +1,5 @@
 <h3><b>Hi,I'm Arya Dasgupta!</b></h3>   
-<img src="C:\Users\abcd\Downloads\New folder\Arya.jpg">
+<img src="../image/Arya.jpg">
 
 I pursued my B.Tech from Kolkata from Future Institute of Engineering and Management. I have always been fascinated by technology and its application. I love coding and working on database. DBMS,Java and C are my stengths and I love to learn and seek knowledge. I have worked on some projects on DBMS and won Most Innovative Project on a project created using Java.
 
