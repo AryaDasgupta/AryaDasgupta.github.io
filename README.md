@@ -5,7 +5,7 @@ I pursued my B.Tech from Kolkata from Future Institute of Engineering and Manage
 
 <h3><b>Contact Info</b></h3><br>
 <b>Phone no:8240200898<b><br>
-  <b>Email-Id: <p>aryadsgupta@gmail.com | arya.dasgupta@cognizant.com</p>  
+ <b>Email-Id:</b> aryadsgupta@gmail.com | arya.dasgupta@cognizant.com  
 
 <h3><b>Educational Qualification</b></h3>
 <table>
