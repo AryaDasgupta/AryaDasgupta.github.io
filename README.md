@@ -35,33 +35,33 @@ I pursued my B.Tech from Kolkata from Future Institute of Engineering and Manage
   </tr>
   </table>
 
-<h3><b>Projects:</b></h3>
+<h3><b>Projects</b></h3>
 <ul>
   <li>University Management using Oracle Sql/Pl-Sql</li>
   <li>Pong Game using Java</li>
 </ul>
   
-<h3><b>Technical Proficiency:</b></h3>
+<h3><b>Technical Proficiency</b></h3>
 <ol>
   <li>DBMS</li>
   <li>JAVA</li>
   <li>C</li>
  </ol>
  
-<h3><b>Certifications:</b></h3>
+<h3><b>Certifications</b></h3>
  <ol>
   <li>Elite NPTEL Online Certification on DBMS</li>
   <li>Microsoft Training Assosiate Certificate on Introduction to Programming using Java</li>
   <li>Certificate on Oracle Sql-Pl/Sql from Ardent Computech Ltd.</li>
  </ol>
   
-  <h3><b>Acheivements:</b></h3>
+  <h3><b>Acheivements</b></h3>
   <ul>
   <li>Received Most Innovative Project Award for creating a game on Java in an Intra College Project Competetion.</li>
   <li>Received a number of awards on football and sprint in school level.</li>
   </ul>
     
-<h3><b>Interests:</b></h3>
+<h3><b>Interests</b></h3>
 <ul>
   <li>Travelling</li>
   <li>Playing Football</li>
